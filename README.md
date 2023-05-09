@@ -43,4 +43,4 @@
   <a href="https://www.javatpoint.com/bash-introduction" target="_blank" rel="noreferrer">
   <img alt="Bash" height="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg"/>
 </a>
-  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noahgsolomon)

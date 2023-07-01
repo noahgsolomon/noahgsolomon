@@ -50,4 +50,4 @@
   <img alt="Bash" height="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg"/>
 <h2 style="color: #44AEFB">Certifications</h2>
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank" rel="noreferrer">
-  <img alt="Cloud Practitioner" height="100px" style="padding-right:10px;" src="https://github.com/noahgsolomon/noahgsolomon/assets/111200060/6945cdf4-c884-4df1-acb2-23e10358a51a"/>
+  <img alt="Cloud Practitioner" height="100px" style="padding-right:10px;" src="https://github.com/noahgsolomon/noahgsolomon/assets/111200060/081ecf57-8d91-4af0-a089-bceb27291f91"/>

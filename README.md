@@ -1,6 +1,6 @@
 <h1 align = "center" >Noah Solomon</h1>
 
-<p align = "center">Computer Science Sophomore Student. I am passionate about learning and exploring new programming languages and frameworks. I am constantly seeking opportunities to enhance my technical skills and knowledge, and I am always excited to build more projects.
+<p align = "center">Computer Science Junior Student. I am passionate about learning and exploring new programming languages and frameworks. I am constantly seeking opportunities to enhance my technical skills and knowledge, and I am always excited to build more projects.
 <br>
 <div align="center">
   <a href="mailto:noahsolomon2003@gmail.com">Email Me</a>

@@ -51,3 +51,6 @@
 <h2 style="color: #44AEFB">Certifications</h2>
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank" rel="noreferrer">
   <img alt="Cloud Practitioner" height="100px" style="padding-right:10px;" src="https://github.com/noahgsolomon/noahgsolomon/assets/111200060/081ecf57-8d91-4af0-a089-bceb27291f91"/>
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank" rel="noreferrer">
+  <img alt="Solutions Architect" height="100px" style="padding-right:10px;" src=https://github.com/noahgsolomon/noahgsolomon/assets/111200060/bbb2bd43-f230-45f8-9894-a93c928f8412
+/>

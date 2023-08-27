@@ -54,3 +54,6 @@
   <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank" rel="noreferrer">
   <img alt="Solutions Architect" height="100px" style="padding-right:10px;" src=https://github.com/noahgsolomon/noahgsolomon/assets/111200060/bbb2bd43-f230-45f8-9894-a93c928f8412
 />
+<a href="https://aws.amazon.com/certification/certified-developer-associate/" target="_blank" rel="noreferrer">
+  <img alt="Developer Associate" height="100px" style="padding-right:10px;" src=https://cloudacademy-com.cdn.ampproject.org/i/s/cloudacademy.com/wp-content/uploads/2022/10/DVA.png
+/>

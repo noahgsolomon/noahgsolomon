@@ -21,6 +21,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   </a>
+  <a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer">
+      <img  alt="Rust" height="50px" style="padding-right:10px; ;" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"/>
+  </a>
  <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer">
       <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
   </a>

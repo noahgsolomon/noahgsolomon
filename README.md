@@ -1,10 +1,6 @@
-<h1 align = "center" >Noah Solomon</h1>
+<h1>Noah Solomon</h1>
 
-<p align = "center">Computer Science Junior Student. I am passionate about learning and exploring new programming languages and frameworks. I am constantly seeking opportunities to enhance my technical skills and knowledge, and I am always excited to build more projects.
-<br>
-<div align="center">
-  <a href="mailto:noahsolomon2003@gmail.com">Email Me</a>
-</div>
+<p>Computer Science Junior Student. Expertise is in Fullstack apps and System Design, and I am currently </br>learning to soon build an AI powered Database Engine.
 </p>
 
 <h2 style="color: #44AEFB">Languages and Tools</h2>

@@ -1,2 +1,2 @@
 # 👋 - Hi, I'm Noah
-![image](https://github.com/noahgsolomon/noahgsolomon/assets/111200060/470214b4-4f66-4ab6-9f94-7c049050c4d3)
+<img src="https://github.com/noahgsolomon/noahgsolomon/assets/111200060/ae0620cf-613a-441c-9d50-b86c242ecbc3" alt="Descriptive Image Text" width="200" height="200">

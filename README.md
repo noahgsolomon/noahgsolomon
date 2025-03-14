@@ -4,8 +4,10 @@
    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=50&duration=2000&pause=998&color=F7F7F7&repeat=false&width=300&height=35&lines=sup+im+noah" />
 </picture>
 <br/>
-<img src="https://github.com/user-attachments/assets/2a5bc900-5590-4333-935b-c2e4f2656b32" alt="killua-gon" width="150" height="150" style="min-height: 150px;">
+<img src="https://github.com/user-attachments/assets/2a5bc900-5590-4333-935b-c2e4f2656b32" alt="killua-gon" width="120" height="120" style="min-height: 120px;">
 <br/>
+<br/>
+
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=i+graduated+in+Dec+2024." />

@@ -1,6 +1,6 @@
-# 👋 - Hi, I'm Noah 
-<img src="https://github.com/noahgsolomon/noahgsolomon/assets/111200060/ae0620cf-613a-441c-9d50-b86c242ecbc3" alt="Descriptive Image Text" width="100" height="100">
+## sup i'm noah 
 
+![killua-gon](https://github.com/user-attachments/assets/2a5bc900-5590-4333-935b-c2e4f2656b32)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="">

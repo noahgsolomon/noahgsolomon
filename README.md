@@ -1,9 +1,12 @@
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/28c23b9d-a1b8-405b-8777-2f7763c2f07e">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1102a696-8a6a-4e56-8515-97c92499815c">
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=50&duration=2000&pause=998&color=F7F7F7&repeat=false&width=300&lines=sup+im+noah" alt="Typing SVG" />
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=50&duration=2000&pause=998&color=000000&repeat=false&width=300&lines=sup+im+noah" alt="Typing SVG" />
    <img height="50" style="min-height: 50px;" alt="Shows a black logo in light color mode and a white one in dark color mode." src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
 
 </picture>
+
+<a href="https://git.io/typing-svg">
+</a>
  
 <br/>
 <br/>

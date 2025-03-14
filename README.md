@@ -14,5 +14,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2a5b13d6-e48d-4af4-b3fe-684f9a551975">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a5327283-fe85-4a87-8840-cf29e61504a1">
-  <img  height="325" style="min-height: 325px;" alt="Shows a black logo in light color mode and a white one in dark color mode." src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
+  <img  height="375" style="min-height: 375px;" alt="Shows a black logo in light color mode and a white one in dark color mode." src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
 </picture>

@@ -1,7 +1,7 @@
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/28c23b9d-a1b8-405b-8777-2f7763c2f07e">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1102a696-8a6a-4e56-8515-97c92499815c">
-   <img height="50" style="min-height: 150px;" alt="Shows a black logo in light color mode and a white one in dark color mode." src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
+   <img height="50" style="min-height: 50px;" alt="Shows a black logo in light color mode and a white one in dark color mode." src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
 
 </picture>
  

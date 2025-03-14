@@ -4,13 +4,7 @@
    <img height="50" style="min-height: 50px;" alt="Shows a black logo in light color mode and a white one in dark color mode." src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
 
 </picture>
-
-<a href="https://git.io/typing-svg">
-</a>
- 
 <br/>
-<br/>
-
 <img src="https://github.com/user-attachments/assets/2a5bc900-5590-4333-935b-c2e4f2656b32" alt="killua-gon" width="150" height="150" style="min-height: 150px;">
 <br/>
 

@@ -8,10 +8,16 @@
 <br/>
 <br/>
 
-i graduated in Dec 2024.
+i graduated uni in dec 2024.
+<br/>
 <br/>
 was going to move to SF for a startup job as a founding swe,
 <br/>
+<br/>
 but turned down due to an acute spinal injury. so working on my own stuff instead rn while recovering.
 <br/>
+<br/>
 currently building deepfi.sh (local ai workflow inference made ez)
+<br/>
+<br/>
+i build w/ next.js, react native, and rust primarily.

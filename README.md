@@ -14,7 +14,7 @@ was going to move to SF for a startup job as a founding swe,
 but turned down due to an acute spinal injury. so working on my own stuff instead rn while recovering.
 <br/>
 <br/>
-currently building deepfi.sh (local ai workflow inference made ez)
+currently building deepfi.sh (local ai workflow inference made ez) and studying smart contract development and vulnerabilities
 <br/>
 <br/>
 i build w/ next.js, react native, and rust primarily.

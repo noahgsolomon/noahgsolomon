@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Noah
 
-<img src="https://github.com/user-attachments/assets/122adf47-ecf4-4f4d-bfb2-fad160f0f237" alt="killua-gon" height="200" style="min-height: 200px;">
+<img src="https://github.com/user-attachments/assets/2fc270b6-7ebe-4f63-9dd4-455767e28078" alt="killua-gon" height="200" style="min-height: 200px;">
 
 ### *some of my favorite work is:*
 ---

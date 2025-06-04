@@ -1,22 +1,28 @@
-hey im noah
-<br/>
-<br/>
+### 👋 Hey, I'm Noah
+
 <img src="https://github.com/user-attachments/assets/ececad7d-d6a2-442f-841c-a604d9c8003d" alt="killua-gon" width="120" height="120" style="min-height: 120px;">
+
 <br/>
 
+-------------------
 
-i like to build things in ai (mostly on product side) and on solana. some of my favorite work is:
-<br/>
-https://ppobunny.vercel.app, trained with pygame + clean rl (ppo) and running in browser with onnx web runtime, with ui wrote in nextjs+r3f+threejs
-<br/>
-https://deepfi.sh, ai workflow management and inference software to build, run and share complex ai flows.
-<br/>
-https://brainrot.com, ai brainrot slop generator, podcast generator, rap song dubber, and monologue generator
-<br/>
-https://pillzumi.com, an agent orchestration project which focused on narrative development
-<br/>
-ai recruiting automation work @ whop
-<br/>
-deep star, a simple bare bones deep learning framework based on micro grad.
+###  some of my favorite work is:
 
-i build w/ next.js, react native, and rust primarily.
+**[Deepfish](https://deepfi.sh)**: AI workflow management and inference platform to easily build, run, and share complex AI workflows.
+
+**[PPO Bunny](https://ppobunny.vercel.app)**: Browser-based reinforcement learning trained via PPO (CleanRL + PyGame), running on ONNX runtime with Next.js + R3F + Three.js UI.
+
+**[Brainrot](https://brainrot.com)**: AI-powered meme generator: podcast generator, rap song dubber, monologue creator.
+
+**[Pillzumi](https://pillzumi.com)**: AI agent ecosystem project emphasizing narrative development and storytelling.
+
+**AI recruiting automation** @ [Whop](https://whop.com)
+
+**Deep Star**: Lightweight deep learning framework inspired by micrograd.
+
+-------------------
+
+(I build stuff with AI (mainly product) and some in web 3 using Next.js and Rust primarily.)
+
+shoot me a dm on [x](https://x.com/noahgsolomon)
+

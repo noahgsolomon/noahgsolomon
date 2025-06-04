@@ -16,6 +16,8 @@
 
 **[Pillzumi](https://pillzumi.com)**: AI agent ecosystem project emphasizing narrative development and storytelling.
 
+**[Codefoli](https://www.youtube.com/watch?v=XrZHvIitq5k&t=392s&ab_channel=TheTechpreneur)**: Website builder and hosting platform with premade templates to build website from.
+
 **AI recruiting automation** @ [Whop](https://whop.com)
 
 **Deep Star**: Lightweight deep learning framework inspired by micrograd.

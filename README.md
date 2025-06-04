@@ -5,16 +5,18 @@ hey im noah
 <br/>
 
 
-i graduated uni in dec 2024.
+i like to build things in ai (mostly on product side) and on solana. some of my favorite work is:
 <br/>
+https://ppobunny.vercel.app, trained with pygame + clean rl (ppo) and running in browser with onnx web runtime, with ui wrote in nextjs+r3f+threejs
 <br/>
-was going to move to SF for a startup job as a founding swe,
+https://deepfi.sh, ai workflow management and inference software to build, run and share complex ai flows.
 <br/>
+https://brainrot.com, ai brainrot slop generator, podcast generator, rap song dubber, and monologue generator
 <br/>
-but turned down due to an acute spinal injury. so working on my own stuff instead rn while recovering.
+https://pillzumi.com, an agent orchestration project which focused on narrative development
 <br/>
+ai recruiting automation work @ whop
 <br/>
-currently building deepfi.sh (local ai workflow inference made ez) and studying smart contract development and vulnerabilities
-<br/>
-<br/>
+deep star, a simple bare bones deep learning framework based on micro grad.
+
 i build w/ next.js, react native, and rust primarily.

@@ -28,4 +28,3 @@
 (I build stuff with AI (mainly product) and some in web3 using Next.js and Rust primarily.)
 
 Shoot me a DM on [x](https://x.com/noahgsolomon)
-<img width="1728" alt="Screenshot 2025-06-04 at 11 28 33 AM" src="" />

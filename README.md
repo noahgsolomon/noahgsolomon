@@ -1,9 +1,6 @@
 ## 👋 Hey, I'm Noah
 
-<img src="https://github.com/user-attachments/assets/2fc270b6-7ebe-4f63-9dd4-455767e28078" alt="killua-gon" height="200" style="min-height: 200px;">
-
 ### *some of my favorite work is:*
----
 
 #### **[Deepfish](https://deepfi.sh)**: AI workflow management and inference platform to easily build, run, and share complex AI workflows. ([view image](https://github.com/user-attachments/assets/d38d31cf-0478-4a2a-a3d5-a2461d1c45cd))
 

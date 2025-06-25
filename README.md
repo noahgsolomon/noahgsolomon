@@ -1,5 +1,7 @@
 ## 👋 Hey, I'm Noah
 
+### **working as a product engineer at [fal](https://fal.ai)**
+
 ### *some of my favorite work is:*
 
 #### **[Deepfish](https://deepfi.sh)**: AI workflow management and inference platform to easily build, run, and share complex AI workflows. ([view image](https://github.com/user-attachments/assets/d38d31cf-0478-4a2a-a3d5-a2461d1c45cd))

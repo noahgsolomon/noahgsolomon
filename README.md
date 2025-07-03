@@ -14,6 +14,8 @@
 
 #### **[Codefoli](https://www.youtube.com/watch?v=XrZHvIitq5k&t=392s&ab_channel=TheTechpreneur)**: Website builder and hosting platform with premade templates to build websites from. ([view image](https://github.com/user-attachments/assets/4df9849d-d38b-421e-bb58-02b39ee75928))
 
+#### **Commentary (coming soon)**: Semantic Clustering over twitter lists to derive popular stories real time based on clustering.
+
 #### **AI recruiting automation** @ [Whop](https://whop.com) ([view image](https://github.com/user-attachments/assets/b4a23907-a979-42b6-bafc-5632fffca502))
 
 #### **[Multiplayer 3D Web Platformer](https://multiplayer-platformer.vercel.app)**: web based online 3D platformer game built to work with 20-40 users per room. ([view image](https://github.com/user-attachments/assets/9dbef085-f672-42d6-bc55-d96af196f983))

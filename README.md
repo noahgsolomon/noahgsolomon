@@ -26,6 +26,4 @@
 
 ---
 
-(I build stuff with AI and some in web3 using Next.js Python and Rust primarily.)
-
 Shoot me a DM on [x](https://x.com/noahgsolomon)

@@ -8,6 +8,8 @@
 
 #### **[PPO Bunny](https://ppobunny.vercel.app)**: Browser-based reinforcement learning trained via PPO (CleanRL + PyGame), running on ONNX runtime with Next.js + R3F + Three.js UI. ([view image](https://github.com/user-attachments/assets/865aed8e-41ff-4cb3-81a9-896c7e3bad3c))
 
+#### **[Infinite Kanvas](https://infinite-kanvas.com)**: Infinite Canvas that lets you generate images and videos powered by Fal.ai supporting multiplayer. ([view image](https://github.com/user-attachments/assets/4b39fae3-c5d2-4ec5-b629-fd1bca1b94e4))
+
 #### **[Brainrot](https://brainrot.com)**: AI-powered meme generator: podcast generator, rap song dubber, monologue creator. ([view image](https://github.com/user-attachments/assets/84cba66c-e6c8-42ba-ac50-f062c904f0ae))
 
 #### **[Pillzumi](https://pillzumi.com)**: AI agent ecosystem project emphasizing narrative development and storytelling. ([view image](https://github.com/user-attachments/assets/bbd7be1d-96aa-4139-80ba-8b26fbeecc00))
@@ -27,3 +29,4 @@
 ---
 
 Shoot me a DM on [x](https://x.com/noahgsolomon)
+<img width="1726" height="959" alt="Screenshot 2025-08-16 at 11 20 25 PM" src="" />

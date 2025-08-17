@@ -29,4 +29,3 @@
 ---
 
 Shoot me a DM on [x](https://x.com/noahgsolomon)
-<img width="1726" height="959" alt="Screenshot 2025-08-16 at 11 20 25 PM" src="" />

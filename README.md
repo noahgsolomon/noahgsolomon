@@ -28,4 +28,4 @@
 
 ---
 
-Shoot me a DM on [x](https://x.com/noahgsolomon)
+Shoot me a DM on [x](https://x.com/noahsolomon)

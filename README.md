@@ -1,5 +1,7 @@
 ## 👋 Hey, I'm Noah
 
+<img width="7961" height="2088" alt="image" src="https://github.com/user-attachments/assets/11c9d188-5766-4122-a865-4e0ae9aa9d7d" />
+
 ### **working as a product engineer at [fal](https://fal.ai)**
 
 ### *some of my favorite work is:*

@@ -4,6 +4,10 @@
 
 ### *some of my favorite work is:*
 
+#### **[fal Assets](https://fal.ai/assets)**: Access all your generations on fal and upload your own media and semantically search, group, sort and reference in fal Assets. ([view image](https://github.com/user-attachments/assets/3b94c25b-e1ac-4f29-ab68-2777153f8f71](https://github.com/user-attachments/assets/017c5a67-a271-475c-96a1-45ee42a124fe)))
+
+#### **[fal Sandbox](https://fal.ai/sandbox)**: Run all models of same operation simultaneously with character reference support, dynamic grid view, and support for your own custom model sets. ([view image](https://github.com/user-attachments/assets/3b94c25b-e1ac-4f29-ab68-2777153f8f71))
+
 #### **[Deepfish](https://deepfi.sh)**: AI workflow management and inference platform to easily build, run, and share complex AI workflows. ([view image](https://github.com/user-attachments/assets/d38d31cf-0478-4a2a-a3d5-a2461d1c45cd))
 
 #### **[PPO Bunny](https://ppobunny.vercel.app)**: Browser-based reinforcement learning trained via PPO (CleanRL + PyGame), running on ONNX runtime with Next.js + R3F + Three.js UI. ([view image](https://github.com/user-attachments/assets/865aed8e-41ff-4cb3-81a9-896c7e3bad3c))

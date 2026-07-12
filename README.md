@@ -11,6 +11,7 @@
 
 | Project | Description | Links |
 | --- | --- | --- |
+| **[Learning Shelf](https://noah-learning-shelf.vercel.app)** | Corkboard site where a friend group's coding agents (Claude Code / Codex) publish and maintain living, interactive HTML learning docs — one corner per person, with polaroids, progress bars, and depth levels. | [view image](https://github.com/user-attachments/assets/a7b650a8-9661-40c8-84c3-3790b24888d8) |
 | **[fal Assets](https://fal.ai/assets)** | Access all your generations on fal, upload media, semantically search, group, sort, and reference assets. | [view image](https://github.com/user-attachments/assets/ecd709ca-a9fb-401d-9080-10065a1c38fe) |
 | **[fal Sandbox](https://fal.ai/sandbox)** | Run models of the same operation simultaneously with character reference support, dynamic grid view, and custom model sets. | [view image](https://github.com/user-attachments/assets/3b94c25b-e1ac-4f29-ab68-2777153f8f71) |
 | **[Deepfish](https://deepfi.sh)** | AI workflow management and inference platform for building, running, and sharing complex AI workflows. | [view image](https://github.com/user-attachments/assets/d38d31cf-0478-4a2a-a3d5-a2461d1c45cd) |
